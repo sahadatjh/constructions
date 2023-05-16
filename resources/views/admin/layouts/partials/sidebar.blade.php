@@ -16,11 +16,11 @@
         <a href="{{ route('admin.dashboard') }}" class="logo logo-light text-center">
             <span class="logo-sm">
                 {{-- <img src="{{ asset('assets/admin/images/logo-sm.png') }}" alt="" height="24"> --}}
-                <img src="{{ asset('assets/admin/images/sa-logo-sm.png') }}" alt="" height="24">
+                <img src="{{ asset('assets/admin/images/logo-short1.png') }}" alt="" height="44">
             </span>
             <span class="logo-lg">
                 {{-- <img src="{{ asset('assets/admin/images/logo-light.png') }}" alt="" height="20"> --}}
-                <img src="{{ asset('assets/admin/images/sa-logo-lg.png') }}" alt="" height="20">
+                <img src="{{ asset('assets/admin/images/logo-long1.png') }}" alt="" height="48">
             </span>
         </a>
     </div>

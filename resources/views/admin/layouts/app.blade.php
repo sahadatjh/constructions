@@ -9,7 +9,7 @@
         <meta content="Coderthemes" name="author" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <!-- App favicon -->
-        <link rel="shortcut icon" href="{{ asset('assets/admin/images/sa-logo-sm.ico') }}">
+        <link rel="shortcut icon" href="{{ asset('assets/admin/images/logo1.ico') }}">
         
         {{-- Toastr css  --}}
         {{-- <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css"> --}}

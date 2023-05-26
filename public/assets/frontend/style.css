@@ -2547,7 +2547,7 @@ blockquote p {
 }
 .full-width-header .rs-header .menu-area .logo-area img {
   transition: 0.4s;
-  max-height: 36px;
+  max-height: 100px;
 }
 .full-width-header .rs-header .menu-area .rs-menu-area {
   display: flex;
@@ -10619,7 +10619,7 @@ body .search-modal .close:hover {
   padding: 85px 0 70px;
 }
 .rs-footer.footer-main-home .footer-top .footer-logo a img {
-  height: 30px;
+  height: 100%;
 }
 .rs-footer.footer-main-home .footer-top .footer-title {
   position: relative;
@@ -11210,7 +11210,7 @@ body .search-modal .close:hover {
   transform: translate(-50%, -50%);
   width: 100px;
   height: 100px;
-  border: 3px solid #ebebec;
+  border: 3px solid #00AEEF;
   border-radius: 50%;
 }
 .loader .loader-container:before {

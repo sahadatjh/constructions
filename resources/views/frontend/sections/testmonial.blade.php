@@ -1,4 +1,4 @@
-<div id="rs-testimonial" class="rs-testimonial gray-bg testimonial-style2 testimonial-modify1 pt-50 pb-50 md-pt-40 md-pb-40 sm-pb-35">
+<div id="rs-testimonial" class="rs-testimonial testimonial-style2 testimonial-modify1 pt-50 pb-50 md-pt-40 md-pb-40 sm-pb-35">
     <div class="container">
         <div class="sec-title text-center mb-60 md-mb-40">
             <span class="sub-text ">

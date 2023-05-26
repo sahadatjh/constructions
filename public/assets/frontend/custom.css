@@ -1,0 +1,6 @@
+.team-social li{
+    border-right:1px solid #000000 ;
+}
+.team-social li:last-child{
+    border-right: none;
+}

@@ -41,6 +41,7 @@
 		<link rel="stylesheet" type="text/css" href="{{ asset('assets/frontend/style.css') }}"> <!-- This stylesheet dynamically changed from style.less -->
 		<!-- responsive css -->
 		<link rel="stylesheet" type="text/css" href="{{ asset('assets/frontend/css/responsive.css') }}">
+		<link rel="stylesheet" type="text/css" href="{{ asset('assets/frontend/custom.css') }}">
 		
 	</head>
 	<body class="defult-home">

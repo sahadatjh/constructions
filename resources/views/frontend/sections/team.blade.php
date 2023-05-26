@@ -1,4 +1,4 @@
-<div class="rs-team team-style2 pt-120 pb-120 md-pt-80 md-pb-80">
+<div class="rs-team team-style2 gray-bg pt-120 pb-120 md-pt-80 md-pb-80">
     <div class="container">
         <div class="sec-title2 text-center mb-55 md-mb-35">
             <span class="sub-title">Expert People</span>
@@ -20,7 +20,7 @@
                             </h3>
                             <span class="team-title">Builder Advisor</span>
                         </div>
-                        <ul class="social-icon">
+                        <ul class="social-icon team-social">
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="#"><i class="fa fa-instagram"></i></a></li>
                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -41,7 +41,7 @@
                             </h3>
                             <span class="team-title">Architecture</span>
                         </div>
-                        <ul class="social-icon">
+                        <ul class="social-icon team-social">
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="#"><i class="fa fa-instagram"></i></a></li>
                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -62,7 +62,7 @@
                             </h3>
                             <span class="team-title">Foreman</span>
                         </div>
-                        <ul class="social-icon">
+                        <ul class="social-icon team-social">
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="#"><i class="fa fa-instagram"></i></a></li>
                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>

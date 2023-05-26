@@ -6,7 +6,7 @@
                     <ul class="rs-contact-info">                   
                         <li>
                             <i class="fi fi-rr-envelope-plus"></i>                  
-                            <a href="mailto:info@konstruk.com">info@propertydesign.com</a>               
+                            <a href="mailto:info@propertydesign.com">info@propertydesign.com</a>               
                         </li>
                         <li>
                             <i class="fi fi-rr-phone-call"></i>                                      

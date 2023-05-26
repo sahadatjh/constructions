@@ -11,7 +11,7 @@
                 <div class="row-table">
                     <div class="col-cell header-logo">                                  
                         <div class="logo-area">
-                            <a href="index.html">
+                            <a href="{{ route('home') }}">
                                 <img class="normal-logo" src="{{ asset('assets/frontend/images/logo/logo-long1.png') }}" alt="logo">  
                                 <img class="sticky-logo" src="{{ asset('assets/frontend/images/logo/logo-long1.png') }}" alt="logo">
                             </a>
@@ -29,7 +29,7 @@
                                                 <li class="menu-item-has-children current-menu-item">
                                                     <a href="#">Multipages</a>
                                                     <ul class="sub-menu">
-                                                        <li class="active"><a href="index.html">Main Home</a></li>
+                                                        <li class="active"><a href="{{ route('home') }}">Main Home</a></li>
                                                         <li><a href="index2.html">Construction 2</a></li>
                                                         <li><a href="index3.html">Construction 3</a></li>
                                                         <li><a href="index4.html">Roofing</a></li>
@@ -139,7 +139,7 @@
                     <div class="col-cell">
                         <div class="expand-btn-inner">
                             <ul>
-                                <li class="search-parent">
+                                {{-- <li class="search-parent">
                                     <a class="hidden-xs rs-search" href="#">
                                         <i class="fi fi-rr-search"></i>
                                     </a>
@@ -153,7 +153,7 @@
                                              </div>
                                          </form>
                                      </div>
-                                </li>
+                                </li> --}}
                                 <li class="btn-quote"><a class="quote-button" href="#">Let's Talk</a></li>
                                 <li class="humburger">
                                     <a id="nav-expander" class="nav-expander bar" href="#">
@@ -189,13 +189,14 @@
                 </a>
             </div>
             <ul class="nav-menu">
-                <li class="menu-item-has-children current-menu-item">
-                    <a href="index.html">Home</a>
-                    <ul class="sub-menu">
+                {{-- <li class="menu-item-has-children current-menu-item"> --}}
+                <li class=" current-menu-item">
+                    <a href="{{ route('home') }}">Home</a>
+                    {{-- <ul class="sub-menu">
                         <li class="menu-item-has-children current-menu-item">
                             <a href="#">Multipages</a>
                             <ul class="sub-menu">
-                                <li class="active"><a href="index.html">Main Home</a></li>
+                                <li class="active"><a href="{{ route('home') }}">Main Home</a></li>
                                 <li><a href="index2.html">Construction 2</a></li>
                                 <li><a href="index3.html">Construction 3</a></li>
                                 <li><a href="index4.html">Roofing</a></li>
@@ -222,14 +223,15 @@
                                 <li><a href="onepage10.html">Onepage Energy</a></li>
                             </ul>  
                         </li>
-                    </ul>
+                    </ul> --}}
                 </li>
                 <li>
                     <a href="about.html">About</a>
                 </li>
-                <li class="menu-item-has-children">
+                {{-- <li class="menu-item-has-children"> --}}
+                <li class="">
                     <a href="services.html">Services</a>
-                    <ul class="sub-menu">
+                    {{-- <ul class="sub-menu">
                         <li><a href="services-style1.html">Services Style 1</a></li>
                         <li><a href="services-style2.html">Services Style 2</a></li>
                         <li class="last-item menu-item-has-children">
@@ -243,9 +245,9 @@
                                 <li><a href="design-build.html">Design Build</a></li>
                             </ul>
                         </li>
-                    </ul>
+                    </ul> --}}
                 </li>
-                <li class="menu-item-has-children">
+                {{-- <li class="menu-item-has-children">
                     <a href="#">Pages</a>
                     <ul class="sub-menu">
                         <li class="last-item menu-item-has-children">
@@ -286,7 +288,7 @@
                             </ul>
                         </li>     
                     </ul>
-                </li>
+                </li> --}}
                 <li>
                     <a href="blog.html">Blog</a>
                 </li>
@@ -305,7 +307,7 @@
                           </div>
                           <div class="info-content">
                               <h4 class="title">Contact</h4>
-                              <em>31 New Street, NY, USA</em>
+                              <em>Level-03, Estern city tower, Beside RS Tower, Jatra-bari, Dhaka</em>
                           </div>
                       </div>
                       <div class="address-list">
@@ -314,7 +316,7 @@
                           </div>
                           <div class="info-content">
                               <h4 class="title">Email</h4>
-                              <em><a href="mailto:info@konstruk.com">Info@konstruk.com</a></em>
+                              <em><a href="mailto:info@propertydesign.com">info@propertydesign.com</a></em>
                           </div>
                       </div>
                       <div class="address-list">
@@ -323,7 +325,7 @@
                           </div>
                           <div class="info-content">
                               <h4 class="title">Free Call</h4>
-                              <em>+019988772</em>
+                              <em>01740 390971</em>
                           </div>
                       </div>
                   </div>

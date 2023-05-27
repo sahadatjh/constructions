@@ -2,7 +2,7 @@
     <div class="footer-top">
         <div class="container">
             <div class="row">
-                <div class="col-lg-3 pr-20 md-pr-15 md-mb-20">
+                <div class="col-lg-3 pr-20 md-pr-15 md-mb-10">
                     <div class="footer-logo md-mb-30">
                         <a href="index.html"><img src="{{ asset('assets/frontend/images/logo/logo-long1.png') }}" alt=""></a>
                     </div>
@@ -23,22 +23,22 @@
                         <li>
                             <i class="fi fi-rr-map-marker-home"></i>
                             <div class="desc">
-                                Ta-134/A, Gulshan Badda Link<br>
-                                Rd, Dhaka
+                                Level-03, Estern city tower, <br>
+                                Beside RS Tower, Jatra-bari, Dhaka
                             </div>
                         </li>
                         <li>
                             <i class="fi fi-rr-phone-call"></i>
                             <div class="desc">
-                               <a href="tel:(+880)15569569365">(+880)155 69569 365</a><br>
-                               <a href="tel:(+880)15569569366">(+880)155 69569 366</a>
+                               <a href="tel:(+880)1740390971">(+880)1740 390971</a><br>
+                               <a href="tel:(+880)1740390971">(+880)1740 390971</a>
                             </div>
                         </li>
                         <li>
                             <i class="fi fi-rr-envelope-plus"></i>
                             <div class="desc">
-                                <a href="mailto:support@devsdesign.com">support@devsdesign.com</a><br>
-                                <a href="mailto:infoname@gmail.com">infoname@gmail.com</a>
+                                <a href="mailto:support@propertydesign.com">support@propertydesign.com</a><br>
+                                <a href="mailto:info@propertydesign.com">info@propertydesign.com</a>
                             </div>
                         </li>
                     </ul>
@@ -70,12 +70,12 @@
             <div class="row y-middle">
                 <div class="col-lg-6 md-mb-10 text-lg-end text-center order-last">
                     <ul class="copy-right-menu">
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="about.html">About</a></li>
-                        <li><a href="services.html">Services</a></li>
-                        <li><a href="#">Pages</a></li>
-                        <li><a href="blog.html">Blog</a></li>
-                        <li><a href="contact.html">Contact</a></li>
+                        <li><a href="{{ route('home') }}">Home</a></li>
+                        <li><a href="{{ route('about') }}">About</a></li>
+                        <li><a href="{{ route('services') }}">Services</a></li>
+                        <li><a href="{{ route('projects') }}">Projects</a></li>
+                        <li><a href="{{ route('blog') }}">Blog</a></li>
+                        <li><a href="{{  route('contact.us') }}">Contact</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-6">

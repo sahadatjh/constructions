@@ -22,17 +22,17 @@
                                     <img src="{{ asset('assets/frontend/images/services/main-home/main-icons/service-icon1.png') }}" alt="Services">
                                 </div>
                                 <div class="services-titles">
-                                    <h3 class="title"><a href="general-construction.html">General construction</a></h3>
+                                    <h3 class="title"><a href="{{ route('services.singel') }}">General construction</a></h3>
                                 </div>
                                 <p class="services-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus.</p>
                                 <div class="services-btn">
-                                    <a class="btn-text" href="general-construction.html">Read More</a>
+                                    <a class="btn-text" href="{{ route('services.singel') }}">Read More</a>
                                 </div>
                             </div>
                         </div>
                         <div class="normarl-text-area">
                             <div class="services-titles">
-                                <h3 class="title"><a href="general-construction.html">General construction</a></h3>
+                                <h3 class="title"><a href="{{ route('services.singel') }}">General construction</a></h3>
                             </div>
                             <div class="icon-image">
                                 <img src="{{ asset('assets/frontend/images/services/main-home/main-icons/service-icon1.png') }}" alt="Services">
@@ -53,17 +53,17 @@
                                     <img src="{{ asset('assets/frontend/images/services/main-home/main-icons/service-icon2.png') }}" alt="Services">
                                 </div>
                                 <div class="services-titles">
-                                    <h3 class="title"><a href="property-maintenance.html">Property maintenance</a></h3>
+                                    <h3 class="title"><a href="{{ route('services.singel') }}">Property maintenance</a></h3>
                                 </div>
                                 <p class="services-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus.</p>
                                 <div class="services-btn">
-                                    <a class="btn-text" href="property-maintenance.html">Read More</a>
+                                    <a class="btn-text" href="{{ route('services.singel') }}">Read More</a>
                                 </div>
                             </div>
                         </div>
                         <div class="normarl-text-area">
                             <div class="services-titles">
-                                <h3 class="title"><a href="property-maintenance.html">Property maintenance</a></h3>
+                                <h3 class="title"><a href="{{ route('services.singel') }}">Property maintenance</a></h3>
                             </div>
                             <div class="icon-image">
                                 <img src="{{ asset('assets/frontend/images/services/main-home/main-icons/service-icon2.png') }}" alt="Services">
@@ -84,17 +84,17 @@
                                     <img src="{{ asset('assets/frontend/images/services/main-home/main-icons/service-icon3.png') }}" alt="Services">
                                 </div>
                                 <div class="services-titles">
-                                    <h3 class="title"><a href="project-managment.html">Project managment</a></h3>
+                                    <h3 class="title"><a href="{{ route('services.singel') }}">Project managment</a></h3>
                                 </div>
                                 <p class="services-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus.</p>
                                 <div class="services-btn">
-                                    <a class="btn-text" href="project-managment.html">Read More</a>
+                                    <a class="btn-text" href="{{ route('services.singel') }}l">Read More</a>
                                 </div>
                             </div>
                         </div>
                         <div class="normarl-text-area">
                             <div class="services-titles">
-                                <h3 class="title"><a href="project-managment.html">Project managment</a></h3>
+                                <h3 class="title"><a href="{{ route('services.singel') }}">Project managment</a></h3>
                             </div>
                             <div class="icon-image">
                                 <img src="{{ asset('assets/frontend/images/services/main-home/main-icons/service-icon3.png') }}" alt="Services">
@@ -115,17 +115,17 @@
                                     <img src="{{ asset('assets/frontend/images/services/main-home/main-icons/service-icon4.png') }}" alt="Services">
                                 </div>
                                 <div class="services-titles">
-                                    <h3 class="title"><a href="virtual-design-build.html">Virtual design & build</a></h3>
+                                    <h3 class="title"><a href="{{ route('services.singel') }}">Virtual design & build</a></h3>
                                 </div>
                                 <p class="services-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus.</p>
                                 <div class="services-btn">
-                                    <a class="btn-text" href="virtual-design-build.html">Read More</a>
+                                    <a class="btn-text" href="{{ route('services.singel') }}">Read More</a>
                                 </div>
                             </div>
                         </div>
                         <div class="normarl-text-area">
                             <div class="services-titles">
-                                <h3 class="title"><a href="virtual-design-build.html">Virtual design & build</a></h3>
+                                <h3 class="title"><a href="{{ route('services.singel') }}">Virtual design & build</a></h3>
                             </div>
                             <div class="icon-image">
                                 <img src="{{ asset('assets/frontend/images/services/main-home/main-icons/service-icon4.png') }}" alt="Services">
@@ -146,17 +146,17 @@
                                     <img src="{{ asset('assets/frontend/images/services/main-home/main-icons/service-icon5.png') }}" alt="Services">
                                 </div>
                                 <div class="services-titles">
-                                    <h3 class="title"><a href="preconstruction.html">Preconstruction</a></h3>
+                                    <h3 class="title"><a href="">Preconstruction</a></h3>
                                 </div>
                                 <p class="services-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus.</p>
                                 <div class="services-btn">
-                                    <a class="btn-text" href="preconstruction.html">Read More</a>
+                                    <a class="btn-text" href="{{ route('services.singel') }}">Read More</a>
                                 </div>
                             </div>
                         </div>
                         <div class="normarl-text-area">
                             <div class="services-titles">
-                                <h3 class="title"><a href="preconstruction.html">Preconstruction</a></h3>
+                                <h3 class="title"><a href="">Preconstruction</a></h3>
                             </div>
                             <div class="icon-image">
                                 <img src="{{ asset('assets/frontend/images/services/main-home/main-icons/service-icon5.png') }}" alt="Services">
@@ -177,17 +177,17 @@
                                     <img src="{{ asset('assets/frontend/images/services/main-home/main-icons/service-icon6.png') }}" alt="Services">
                                 </div>
                                 <div class="services-titles">
-                                    <h3 class="title"><a href="design-build.html">Design build</a></h3>
+                                    <h3 class="title"><a href="{{ route('services.singel') }}">Design build</a></h3>
                                 </div>
                                 <p class="services-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus.</p>
                                 <div class="services-btn">
-                                    <a class="btn-text" href="design-build.html">Read More</a>
+                                    <a class="btn-text" href="{{ route('services.singel') }}">Read More</a>
                                 </div>
                             </div>
                         </div>
                         <div class="normarl-text-area">
                             <div class="services-titles">
-                                <h3 class="title"><a href="design-build.html">Design build</a></h3>
+                                <h3 class="title"><a href="{{ route('services.singel') }}">Design build</a></h3>
                             </div>
                             <div class="icon-image">
                                 <img src="{{ asset('assets/frontend/images/services/main-home/main-icons/service-icon6.png') }}" alt="Services">

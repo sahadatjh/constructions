@@ -59,11 +59,11 @@
                                             </ul> --}}
                                         </li>
                                         <li>
-                                            <a href="#">About Us</a>
+                                            <a href="{{ route('about') }}">About Us</a>
                                         </li>
                                         {{-- <li class="menu-item-has-children"> --}}
                                         <li >
-                                            <a href="services.html">Services</a>
+                                            <a href="{{ route('services') }}">Services</a>
                                             {{-- <ul class="sub-menu">
                                                 <li><a href="services-style1.html">Services Style 1</a></li>
                                                 <li><a href="services-style2.html">Services Style 2</a></li>
@@ -123,13 +123,16 @@
                                             </ul>
                                         </li> --}}
                                         <li>
-                                            <a href="#">Projects</a>
+                                            <a href="{{ route('projects') }}">Projects</a>
                                         </li>
                                         <li>
-                                            <a href="#">Blog</a>
+                                            <a href="{{ route('cost') }}">Cost</a>
                                         </li>
                                         <li>
-                                            <a href="#">Contact Us</a>
+                                            <a href="{{ route('blog') }}">Blog</a>
+                                        </li>
+                                        <li>
+                                            <a href="{{ route('contact.us') }}">Contact Us</a>
                                         </li>
                                     </ul> <!-- //.nav-menu -->
                                 </nav>
@@ -226,11 +229,11 @@
                     </ul> --}}
                 </li>
                 <li>
-                    <a href="about.html">About</a>
+                    <a href="{{ route('about') }}">About Us</a>
                 </li>
                 {{-- <li class="menu-item-has-children"> --}}
                 <li class="">
-                    <a href="services.html">Services</a>
+                    <a href="{{ route('services') }}">Services</a>
                     {{-- <ul class="sub-menu">
                         <li><a href="services-style1.html">Services Style 1</a></li>
                         <li><a href="services-style2.html">Services Style 2</a></li>
@@ -290,10 +293,16 @@
                     </ul>
                 </li> --}}
                 <li>
-                    <a href="blog.html">Blog</a>
+                    <a href="{{ route('projects') }}">Projects</a>
                 </li>
                 <li>
-                    <a href="contact.html">Contact</a>
+                    <a href="{{  route('cost') }}">Cost</a>
+                </li>
+                <li>
+                    <a href="{{  route('blog') }}">Blog</a>
+                </li>
+                <li>
+                    <a href="{{  route('contact.us') }}">Contact</a>
                 </li>
             </ul> <!-- //.nav-menu -->
             <!-- //.nav-menu -->

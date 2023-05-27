@@ -1,0 +1,9 @@
+@extends('frontend.layouts.app')
+@section('content')
+    @include('frontend.layouts.partials.header')
+    @include('frontend.sections.service.breadcrumbs')
+    @include('frontend.sections.service')
+    @include('frontend.sections.service.working-process')
+    @include('frontend.sections.contact')
+    @include('frontend.sections.partner') 
+@endsection

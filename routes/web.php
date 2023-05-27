@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\Frontend\HomeController;
 use App\Http\Controllers\ProfileController;
+use Illuminate\Support\Facades\Artisan;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -19,6 +20,16 @@ use Illuminate\Support\Facades\Route;
 //     return view('welcome');
 // });
 Route::get('/', [HomeController::class, 'home'])->name('home');
+Route::get('/clear',function ()
+{
+    Artisan::call('cache:clear');
+    Artisan::call('config:cache');
+    Artisan::call('view:clear');
+    Artisan::call('view:cache');
+    Artisan::call('route:clear');
+    Artisan::call('route:cache');
+    return "Cache, view, route clear successfully!";
+});
 
 Route::get('/dashboard', function () {
     return view('dashboard');
@@ -29,5 +40,15 @@ Route::middleware('auth')->group(function () {
     Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
 });
+
+Route::get('/about', [HomeController::class, 'about'])->name('about');
+Route::get('/services', [HomeController::class, 'services'])->name('services');
+Route::get('/services-single', [HomeController::class, 'servicesSingle'])->name('services.singel');
+Route::get('/projects', [HomeController::class, 'projects'])->name('projects');
+Route::get('/projects-single', [HomeController::class, 'projectsSingle'])->name('projects.single');
+Route::get('/contact-us', [HomeController::class, 'contactUs'])->name('contact.us');
+Route::get('/cost', [HomeController::class, 'cost'])->name('cost');
+Route::get('/blog', [HomeController::class, 'blog'])->name('blog');
+Route::get('/blog-single', [HomeController::class, 'blogSingle'])->name('blog.single');
 
 require __DIR__.'/auth.php';

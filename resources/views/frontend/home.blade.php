@@ -11,7 +11,7 @@
 			<!-- Slider End -->
 		
 			<!-- About Start -->
-			@include('frontend.sections.about')
+			@include('frontend.sections.who-we-are')
 			<!-- About End -->
             
 			<!-- Services Section Start -->

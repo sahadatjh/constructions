@@ -214,7 +214,8 @@
         padding-left: 50px;
     }
     .rs-pricing.pricing-style1 .pricing-table-wrap {
-        padding: 44px 40px 60px 40px;
+        /* padding: 44px 40px 60px 40px; */
+        padding: 5px;
     }
     .rs-counter.counter-style6 .rs-counter-list .counter-text .counter-icon img {
         width: 60px;

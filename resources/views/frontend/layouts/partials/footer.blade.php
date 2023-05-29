@@ -46,12 +46,12 @@
                 <div class="col-lg-3 md-mb-10">
                     <h3 class="footer-title">Our Services</h3>
                     <ul class="site-map">
-                        <li><a href="general-construction.html">General Construction</a></li>
-                        <li><a href="property-maintenance.html">Property Maintenance</a></li>
-                        <li><a href="project-managment.html">Project Managment</a></li>
-                        <li><a href="virtual-design-build.html">Virtual Design & Build</a></li>
-                        <li><a href="preconstruction.html">Preconstruction</a></li>
-                        <li><a href="design-build.html">Design Build</a></li>
+                        <li><a href="{{ route('services.singel') }}">General Construction</a></li>
+                        <li><a href="{{ route('services.singel') }}">Property Maintenance</a></li>
+                        <li><a href="{{ route('services.singel') }}">Project Managment</a></li>
+                        <li><a href="{{ route('services.singel') }}">Virtual Design & Build</a></li>
+                        <li><a href="{{ route('services.singel') }}">Preconstruction</a></li>
+                        <li><a href="{{ route('services.singel') }}">Design Build</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-3">

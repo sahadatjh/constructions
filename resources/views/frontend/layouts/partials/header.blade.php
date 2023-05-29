@@ -7,7 +7,7 @@
         
         <!-- Menu Start -->
         <div class="menu-area menu-sticky">
-            <div class="container">
+            <div class="container-custom">
                 <div class="row-table">
                     <div class="col-cell header-logo">                                  
                         <div class="logo-area">
@@ -157,7 +157,13 @@
                                          </form>
                                      </div>
                                 </li> --}}
-                                <li class="btn-quote"><a class="quote-button" href="#">Let's Talk</a></li>
+                                <li class="btn-quote">
+                                    <a class="quote-button cart-btn" href="{{ route('contact.us') }}">
+                                        <i class="fi fi-rr-shopping-cart fa-2x"></i>
+                                    </a>
+                                    <span class="badge bg-dark cart-count">3</span>
+                                </li>
+                                {{-- <li class="btn-quote"><a class="quote-button" href="{{ route('contact.us') }}">Let's Talk</a></li> --}}
                                 <li class="humburger">
                                     <a id="nav-expander" class="nav-expander bar" href="#">
                                         <div class="bar">

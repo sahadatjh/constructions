@@ -14,10 +14,10 @@
                 <img src="{{ asset('assets/frontend/images/project/style1/1.jpg') }}" alt="images">
             </div>
             <div class="project-content">                                
-                <div class="p-icon"><a href="projects-single.html"><i class="fi fi-rr-arrow-small-right"></i></a></div>
+                <div class="p-icon"><a href="{{ route('projects.single') }}"><i class="fi fi-rr-arrow-small-right"></i></a></div>
                 <div class="project-inner">
-                    <span class="category"><a href="projects-single.html">Interiors</a></span>
-                    <h3 class="title"><a href="projects-single.html">Edison Middle School</a></h3>
+                    <span class="category"><a href="{{ route('projects.single') }}">Interiors</a></span>
+                    <h3 class="title"><a href="{{ route('projects.single') }}">Edison Middle School</a></h3>
                 </div>
             </div>
         </div>
@@ -26,10 +26,10 @@
                 <img src="{{ asset('assets/frontend/images/project/style1/2.jpg') }}" alt="images">
             </div>
             <div class="project-content">                                
-                <div class="p-icon"><a href="projects-single.html"><i class="fi fi-rr-arrow-small-right"></i></a></div>
+                <div class="p-icon"><a href="{{ route('projects.single') }}"><i class="fi fi-rr-arrow-small-right"></i></a></div>
                 <div class="project-inner">
-                    <span class="category"><a href="projects-single.html">House Renovation</a></span>
-                    <h3 class="title"><a href="projects-single.html">Olson’s Piggly Wiggly</a></h3>
+                    <span class="category"><a href="{{ route('projects.single') }}">House Renovation</a></span>
+                    <h3 class="title"><a href="{{ route('projects.single') }}">Olson’s Piggly Wiggly</a></h3>
                 </div>
             </div>
         </div>
@@ -38,10 +38,10 @@
                 <img src="{{ asset('assets/frontend/images/project/style1/3.jpg') }}" alt="images">
             </div>
             <div class="project-content">                                
-                <div class="p-icon"><a href="projects-single.html"><i class="fi fi-rr-arrow-small-right"></i></a></div>
+                <div class="p-icon"><a href="{{ route('projects.single') }}"><i class="fi fi-rr-arrow-small-right"></i></a></div>
                 <div class="project-inner">
-                    <span class="category"><a href="projects-single.html">House Renovation</a></span>
-                    <h3 class="title"><a href="projects-single.html">Jewelers Mutual</a></h3>
+                    <span class="category"><a href="{{ route('projects.single') }}">House Renovation</a></span>
+                    <h3 class="title"><a href="{{ route('projects.single') }}">Jewelers Mutual</a></h3>
                 </div>
             </div>
         </div>
@@ -50,10 +50,10 @@
                 <img src="{{ asset('assets/frontend/images/project/style1/4.jpg') }}" alt="images">
             </div>
             <div class="project-content">                                
-                <div class="p-icon"><a href="projects-single.html"><i class="fi fi-rr-arrow-small-right"></i></a></div>
+                <div class="p-icon"><a href="{{ route('projects.single') }}"><i class="fi fi-rr-arrow-small-right"></i></a></div>
                 <div class="project-inner">
-                    <span class="category"><a href="projects-single.html">House & Exterior</a></span>
-                    <h3 class="title"><a href="projects-single.html">Stone Harbor</a></h3>
+                    <span class="category"><a href="{{ route('projects.single') }}">House & Exterior</a></span>
+                    <h3 class="title"><a href="{{ route('projects.single') }}">Stone Harbor</a></h3>
                 </div>
             </div>
         </div>
@@ -62,10 +62,10 @@
                 <img src="{{ asset('assets/frontend/images/project/style1/5.jpg') }}" alt="images">
             </div>
             <div class="project-content">                                
-                <div class="p-icon"><a href="projects-single.html"><i class="fi fi-rr-arrow-small-right"></i></a></div>
+                <div class="p-icon"><a href="{{ route('projects.single') }}"><i class="fi fi-rr-arrow-small-right"></i></a></div>
                 <div class="project-inner">
-                    <span class="category"><a href="projects-single.html">House & Exterior</a></span>
-                    <h3 class="title"><a href="projects-single.html">Hyatt Regency</a></h3>
+                    <span class="category"><a href="{{ route('projects.single') }}">House & Exterior</a></span>
+                    <h3 class="title"><a href="{{ route('projects.single') }}">Hyatt Regency</a></h3>
                 </div>
             </div>
         </div>
@@ -74,10 +74,10 @@
                 <img src="{{ asset('assets/frontend/images/project/style1/6.jpg') }}" alt="images">
             </div>
             <div class="project-content">                                
-                <div class="p-icon"><a href="projects-single.html"><i class="fi fi-rr-arrow-small-right"></i></a></div>
+                <div class="p-icon"><a href="{{ route('projects.single') }}"><i class="fi fi-rr-arrow-small-right"></i></a></div>
                 <div class="project-inner">
-                    <span class="category"><a href="projects-single.html">Interiors</a></span>
-                    <h3 class="title"><a href="projects-single.html">Eisenhower Elementary</a></h3>
+                    <span class="category"><a href="{{ route('projects.single') }}">Interiors</a></span>
+                    <h3 class="title"><a href="{{ route('projects.single') }}">Eisenhower Elementary</a></h3>
                 </div>
             </div>
         </div>
@@ -86,10 +86,10 @@
                 <img src="{{ asset('assets/frontend/images/project/style1/7.jpg') }}" alt="images">
             </div>
             <div class="project-content">                                
-                <div class="p-icon"><a href="projects-single.html"><i class="fi fi-rr-arrow-small-right"></i></a></div>
+                <div class="p-icon"><a href="{{ route('projects.single') }}"><i class="fi fi-rr-arrow-small-right"></i></a></div>
                 <div class="project-inner">
-                    <span class="category"><a href="projects-single.html">Interiors</a></span>
-                    <h3 class="title"><a href="projects-single.html">Ferguson Family YMCA</a></h3>
+                    <span class="category"><a href="{{ route('projects.single') }}">Interiors</a></span>
+                    <h3 class="title"><a href="{{ route('projects.single') }}">Ferguson Family YMCA</a></h3>
                 </div>
             </div>
         </div>
@@ -98,10 +98,10 @@
                 <img src="{{ asset('assets/frontend/images/project/style1/1.jpg') }}" alt="images">
             </div>
             <div class="project-content">                                
-                <div class="p-icon"><a href="projects-single.html"><i class="fi fi-rr-arrow-small-right"></i></a></div>
+                <div class="p-icon"><a href="{{ route('projects.single') }}"><i class="fi fi-rr-arrow-small-right"></i></a></div>
                 <div class="project-inner">
-                    <span class="category"><a href="projects-single.html">Interiors</a></span>
-                    <h3 class="title"><a href="projects-single.html">Edison Middle School</a></h3>
+                    <span class="category"><a href="{{ route('projects.single') }}">Interiors</a></span>
+                    <h3 class="title"><a href="{{ route('projects.single') }}">Edison Middle School</a></h3>
                 </div>
             </div>
         </div>
@@ -110,10 +110,10 @@
                 <img src="{{ asset('assets/frontend/images/project/style1/2.jpg') }}" alt="images">
             </div>
             <div class="project-content">                                
-                <div class="p-icon"><a href="projects-single.html"><i class="fi fi-rr-arrow-small-right"></i></a></div>
+                <div class="p-icon"><a href="{{ route('projects.single') }}"><i class="fi fi-rr-arrow-small-right"></i></a></div>
                 <div class="project-inner">
-                    <span class="category"><a href="projects-single.html">House Renovation</a></span>
-                    <h3 class="title"><a href="projects-single.html">Olson’s Piggly Wiggly</a></h3>
+                    <span class="category"><a href="{{ route('projects.single') }}">House Renovation</a></span>
+                    <h3 class="title"><a href="{{ route('projects.single') }}">Olson’s Piggly Wiggly</a></h3>
                 </div>
             </div>
         </div>

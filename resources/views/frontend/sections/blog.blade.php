@@ -6,7 +6,7 @@
                 News & Blog
             </span>
             <h2 class="title">
-                Our latest news post<br> 
+                Our latest news post  
                 and articles?
             </h2>
         </div>

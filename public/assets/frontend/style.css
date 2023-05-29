@@ -8746,7 +8746,7 @@ body .search-modal .close:hover {
 .rs-pricing.pricing-style1 .pricing-table-wrap {
   position: relative;
   overflow: hidden;
-  padding: 44px 70px 60px 70px;
+  /* padding: 44px 70px 60px 70px; */
   background-color: #fff;
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   margin: 0 -2px 0 -2px;

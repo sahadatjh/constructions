@@ -4,3 +4,16 @@
 .team-social li:last-child{
     border-right: none;
 }
+.pricing-table-wrap:hover{
+    box-shadow: 1px 1px 10px 1px #888888 !important;
+}
+.product-title{
+    padding: 10px;
+}
+.product-title a{
+    font-size: 20px;
+    color: #000000;
+}
+.product-title a:hover{
+    color: #ffb703;
+}

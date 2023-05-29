@@ -18,7 +18,7 @@
                                     <p class="price h6 ">2000/-</p>
                             </div>
                             <div class="btn-part mt-10 md-mt-5 text-center w-100">
-                                <a class="readon more pricing w-100" href="contact.html"><span>Add To Cart</span></a>
+                                <a class="readon more pricing w-100" href="{{ route('product.single') }}"><span>Add To Cart</span></a>
                             </div>
                         </div>
                     </a>
@@ -34,7 +34,7 @@
                                     <p class="price h6 ">2000/-</p>
                             </div>
                             <div class="btn-part mt-10 md-mt-5 text-center w-100">
-                                <a class="readon more pricing w-100" href="contact.html"><span>Add To Cart</span></a>
+                                <a class="readon more pricing w-100" href="{{ route('product.single') }}"><span>Add To Cart</span></a>
                             </div>
                         </div>
                     </a>
@@ -50,7 +50,7 @@
                                     <p class="price h6 ">2000/-</p>
                             </div>
                             <div class="btn-part mt-10 md-mt-5 text-center w-100">
-                                <a class="readon more pricing w-100" href="contact.html"><span>Add To Cart</span></a>
+                                <a class="readon more pricing w-100" href="{{ route('product.single') }}"><span>Add To Cart</span></a>
                             </div>
                         </div>
                     </a>
@@ -66,7 +66,7 @@
                                     <p class="price h6 ">2000/-</p>
                             </div>
                             <div class="btn-part mt-10 md-mt-5 text-center w-100">
-                                <a class="readon more pricing w-100" href="contact.html"><span>Add To Cart</span></a>
+                                <a class="readon more pricing w-100" href="{{ route('product.single') }}"><span>Add To Cart</span></a>
                             </div>
                         </div>
                     </a>
@@ -82,7 +82,7 @@
                                     <p class="price h6 ">2000/-</p>
                             </div>
                             <div class="btn-part mt-10 md-mt-5 text-center w-100">
-                                <a class="readon more pricing w-100" href="contact.html"><span>Add To Cart</span></a>
+                                <a class="readon more pricing w-100" href="{{ route('product.single') }}"><span>Add To Cart</span></a>
                             </div>
                         </div>
                     </a>
@@ -98,7 +98,7 @@
                                     <p class="price h6 ">2000/-</p>
                             </div>
                             <div class="btn-part mt-10 md-mt-5 text-center w-100">
-                                <a class="readon more pricing w-100" href="contact.html"><span>Add To Cart</span></a>
+                                <a class="readon more pricing w-100" href="{{ route('product.single') }}"><span>Add To Cart</span></a>
                             </div>
                         </div>
                     </a>
@@ -122,7 +122,7 @@
                                     <p class="price h6 ">2000/-</p>
                             </div>
                             <div class="btn-part mt-10 md-mt-5 text-center w-100">
-                                <a class="readon more pricing w-100" href="contact.html"><span>Add To Cart</span></a>
+                                <a class="readon more pricing w-100" href="{{ route('product.single') }}"><span>Add To Cart</span></a>
                             </div>
                         </div>
                     </a>
@@ -138,7 +138,7 @@
                                     <p class="price h6 ">2000/-</p>
                             </div>
                             <div class="btn-part mt-10 md-mt-5 text-center w-100">
-                                <a class="readon more pricing w-100" href="contact.html"><span>Add To Cart</span></a>
+                                <a class="readon more pricing w-100" href="{{ route('product.single') }}"><span>Add To Cart</span></a>
                             </div>
                         </div>
                     </a>
@@ -154,7 +154,7 @@
                                     <p class="price h6 ">2000/-</p>
                             </div>
                             <div class="btn-part mt-10 md-mt-5 text-center w-100">
-                                <a class="readon more pricing w-100" href="contact.html"><span>Add To Cart</span></a>
+                                <a class="readon more pricing w-100" href="{{ route('product.single') }}"><span>Add To Cart</span></a>
                             </div>
                         </div>
                     </a>
@@ -170,7 +170,7 @@
                                     <p class="price h6 ">2000/-</p>
                             </div>
                             <div class="btn-part mt-10 md-mt-5 text-center w-100">
-                                <a class="readon more pricing w-100" href="contact.html"><span>Add To Cart</span></a>
+                                <a class="readon more pricing w-100" href="{{ route('product.single') }}"><span>Add To Cart</span></a>
                             </div>
                         </div>
                     </a>
@@ -186,7 +186,7 @@
                                     <p class="price h6 ">2000/-</p>
                             </div>
                             <div class="btn-part mt-10 md-mt-5 text-center w-100">
-                                <a class="readon more pricing w-100" href="contact.html"><span>Add To Cart</span></a>
+                                <a class="readon more pricing w-100" href="{{ route('product.single') }}"><span>Add To Cart</span></a>
                             </div>
                         </div>
                     </a>
@@ -202,7 +202,7 @@
                                     <p class="price h6 ">2000/-</p>
                             </div>
                             <div class="btn-part mt-10 md-mt-5 text-center w-100">
-                                <a class="readon more pricing w-100" href="contact.html"><span>Add To Cart</span></a>
+                                <a class="readon more pricing w-100" href="{{ route('product.single') }}"><span>Add To Cart</span></a>
                             </div>
                         </div>
                     </a>
@@ -226,7 +226,7 @@
                                     <p class="price h6 ">2000/-</p>
                             </div>
                             <div class="btn-part mt-10 md-mt-5 text-center w-100">
-                                <a class="readon more pricing w-100" href="contact.html"><span>Add To Cart</span></a>
+                                <a class="readon more pricing w-100" href="{{ route('product.single') }}"><span>Add To Cart</span></a>
                             </div>
                         </div>
                     </a>
@@ -242,7 +242,7 @@
                                     <p class="price h6 ">2000/-</p>
                             </div>
                             <div class="btn-part mt-10 md-mt-5 text-center w-100">
-                                <a class="readon more pricing w-100" href="contact.html"><span>Add To Cart</span></a>
+                                <a class="readon more pricing w-100" href="{{ route('product.single') }}"><span>Add To Cart</span></a>
                             </div>
                         </div>
                     </a>
@@ -258,7 +258,7 @@
                                     <p class="price h6 ">2000/-</p>
                             </div>
                             <div class="btn-part mt-10 md-mt-5 text-center w-100">
-                                <a class="readon more pricing w-100" href="contact.html"><span>Add To Cart</span></a>
+                                <a class="readon more pricing w-100" href="{{ route('product.single') }}"><span>Add To Cart</span></a>
                             </div>
                         </div>
                     </a>
@@ -274,7 +274,7 @@
                                     <p class="price h6 ">2000/-</p>
                             </div>
                             <div class="btn-part mt-10 md-mt-5 text-center w-100">
-                                <a class="readon more pricing w-100" href="contact.html"><span>Add To Cart</span></a>
+                                <a class="readon more pricing w-100" href="{{ route('product.single') }}"><span>Add To Cart</span></a>
                             </div>
                         </div>
                     </a>
@@ -290,7 +290,7 @@
                                     <p class="price h6 ">2000/-</p>
                             </div>
                             <div class="btn-part mt-10 md-mt-5 text-center w-100">
-                                <a class="readon more pricing w-100" href="contact.html"><span>Add To Cart</span></a>
+                                <a class="readon more pricing w-100" href="{{ route('product.single') }}"><span>Add To Cart</span></a>
                             </div>
                         </div>
                     </a>
@@ -306,7 +306,7 @@
                                     <p class="price h6 ">2000/-</p>
                             </div>
                             <div class="btn-part mt-10 md-mt-5 text-center w-100">
-                                <a class="readon more pricing w-100" href="contact.html"><span>Add To Cart</span></a>
+                                <a class="readon more pricing w-100" href="{{ route('product.single') }}"><span>Add To Cart</span></a>
                             </div>
                         </div>
                     </a>

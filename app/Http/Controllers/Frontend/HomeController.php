@@ -56,4 +56,13 @@ class HomeController extends Controller
     {
         return view('frontend.pages.cost');
     }
+
+    public function productSingle()
+    {
+        return view('frontend.pages.product-single');
+    }
+    public function cart()
+    {
+        return view('frontend.pages.cart');
+    }
 }

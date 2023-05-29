@@ -48,7 +48,9 @@ Route::get('/projects', [HomeController::class, 'projects'])->name('projects');
 Route::get('/projects-single', [HomeController::class, 'projectsSingle'])->name('projects.single');
 Route::get('/contact-us', [HomeController::class, 'contactUs'])->name('contact.us');
 Route::get('/cost', [HomeController::class, 'cost'])->name('cost');
+Route::get('/cost/products-single', [HomeController::class, 'productSingle'])->name('product.single');
 Route::get('/blog', [HomeController::class, 'blog'])->name('blog');
 Route::get('/blog-single', [HomeController::class, 'blogSingle'])->name('blog.single');
+Route::get('/cart', [HomeController::class, 'cart'])->name('cart');
 
 require __DIR__.'/auth.php';

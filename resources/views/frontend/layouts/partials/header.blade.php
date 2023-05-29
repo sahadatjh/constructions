@@ -158,7 +158,7 @@
                                      </div>
                                 </li> --}}
                                 <li class="btn-quote">
-                                    <a class="quote-button cart-btn" href="{{ route('contact.us') }}">
+                                    <a class="quote-button cart-btn" href="{{ route('cart') }}">
                                         <i class="fi fi-rr-shopping-cart fa-2x"></i>
                                     </a>
                                     <span class="badge bg-dark cart-count">3</span>

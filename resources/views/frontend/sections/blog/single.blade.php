@@ -79,7 +79,6 @@
             </div>
             <div class="col-lg-4 col-md-12 pl-25 md-pl-15">
                 @include('frontend.sections.blog.sidebar')
-                @include('frontend.sections.blog.sidebar')
             </div>
         </div> 
     </div>

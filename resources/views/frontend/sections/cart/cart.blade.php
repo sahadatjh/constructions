@@ -61,7 +61,8 @@
                         </tbody>
                     </table>
                     <div class="wc-proceed-to-checkout">
-                         <button class="add-btn cart" type="submit"> Proceed to checkout</button>
+                         <a href="{{ route('checkout') }}" class="add-btn cart" type="submit"> Proceed to checkout</a>
+                         {{-- <button class="add-btn cart" type="submit"> Proceed to checkout</button> --}}
                     </div>
                 </div>
             </div>

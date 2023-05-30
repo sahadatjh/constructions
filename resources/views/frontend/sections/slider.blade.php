@@ -21,7 +21,7 @@
                            to drive value and realize your project consistent goals. 		
                        </p>
                           <div class="slider-bottom">
-                              <a class="readon more" href="contact.html">Discover More</a>
+                              <a class="readon more" href="{{ route('contact.us') }}">Discover More</a>
                           </div>
                    </div>
                    <div class="animation-wrap">
@@ -54,7 +54,7 @@
                         to drive value and realize your project consistent goals.
                     </p>
                        <div class="slider-bottom">
-                           <a class="readon more" href="contact.html">Discover More</a>
+                           <a class="readon more" href="{{ route('contact.us') }}">Discover More</a>
                        </div>
                 </div>
                 <div class="animation-wrap2">

@@ -52,5 +52,6 @@ Route::get('/cost/products-single', [HomeController::class, 'productSingle'])->n
 Route::get('/blog', [HomeController::class, 'blog'])->name('blog');
 Route::get('/blog-single', [HomeController::class, 'blogSingle'])->name('blog.single');
 Route::get('/cart', [HomeController::class, 'cart'])->name('cart');
+Route::get('/checkout', [HomeController::class, 'checkout'])->name('checkout');
 
 require __DIR__.'/auth.php';

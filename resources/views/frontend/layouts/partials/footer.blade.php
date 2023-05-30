@@ -1,6 +1,6 @@
 <footer id="rs-footer" class="rs-footer footer-main-home">
     <div class="footer-top">
-        <div class="container">
+        <div class="container-custom">
             <div class="row">
                 <div class="col-lg-3 pr-20 md-pr-15 md-mb-10">
                     <div class="footer-logo md-mb-30">
@@ -66,7 +66,7 @@
         </div>
     </div>
     <div class="footer-bottom">
-        <div class="container">                    
+        <div class="container-custom">                    
             <div class="row y-middle">
                 <div class="col-lg-6 md-mb-10 text-lg-end text-center order-last">
                     <ul class="copy-right-menu">

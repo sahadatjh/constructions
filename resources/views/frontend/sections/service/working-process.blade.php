@@ -12,7 +12,7 @@
             </div>
             <div class="col-lg-4 text-right md-left md-mb-40">
                 <div class="btn-part mt-20">
-                    <a class="readon more touch" href="contact.html">Get In Touch</a>
+                    <a class="readon more touch" href="{{ route('contact.us')}}">Get In Touch</a>
                 </div>
             </div>
         </div>
@@ -23,7 +23,7 @@
                 <div class="col-xl-3 col-md-6 md-md-40">
                     <div class="process-item process-gap">
                         <div class="number-image">
-                            <img src="assets/images/process/style3/icons/p1.png" alt="Images">
+                            <img src="{{ asset('assets/frontend/images/process/style3/icons/p1.png') }}" alt="Images">
                         </div>
                         <div class="number-text">
                             <div class="number-area">
@@ -37,7 +37,7 @@
                 <div class="col-xl-3 col-md-6 md-md-40">
                     <div class="process-item process-gap">
                         <div class="number-image">
-                            <img src="assets/images/process/style3/icons/p2.png" alt="Images">
+                            <img src="{{ asset('assets/frontend/images/process/style3/icons/p2.png') }}" alt="Images">
                         </div>
                         <div class="number-text">
                             <div class="number-area">
@@ -51,7 +51,7 @@
                 <div class="col-xl-3 col-md-6 sm-mb-40">
                     <div class="process-item">
                         <div class="number-image">
-                            <img src="assets/images/process/style3/icons/p3.png" alt="Images">
+                            <img src="{{ asset('assets/frontend/images/process/style3/icons/p3.png') }}" alt="Images">
                         </div>
                         <div class="number-text">
                             <div class="number-area">
@@ -65,7 +65,7 @@
                 <div class="col-xl-3 col-md-6">
                     <div class="process-item">
                         <div class="number-image">
-                            <img src="assets/images/process/style3/icons/p4.png" alt="Images">
+                            <img src="{{ asset('assets/frontend/images/process/style3/icons/p4.png') }}" alt="Images">
                         </div>
                         <div class="number-text">
                             <div class="number-area">

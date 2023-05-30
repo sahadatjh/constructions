@@ -14,7 +14,7 @@
                     Iterative approaches to corporate strategy foster collaborative thinking
                 </p>
                 <div class="btn-part">
-                    <a class="readon more contact" href="contact.html">Get Started</a>
+                    <a class="readon more contact" href="{{ route('contact.us') }}">Get Started</a>
                 </div>
             </div>
         </div>

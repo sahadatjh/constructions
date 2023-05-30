@@ -88,7 +88,7 @@
                                 </div>
                                 <p class="services-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh luctus.</p>
                                 <div class="services-btn">
-                                    <a class="btn-text" href="{{ route('services.singel') }}l">Read More</a>
+                                    <a class="btn-text" href="{{ route('services.singel') }}">Read More</a>
                                 </div>
                             </div>
                         </div>

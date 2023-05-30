@@ -31,43 +31,43 @@
                 data-mobile-device-nav="false" 
                 data-mobile-device-dots="false">  
                 <div class="logo-img">
-                    <a href="https://devsdesign.net/">
+                    <a href="#">
                         <img class="hovers-logos rs-grid-img" src="{{ asset('assets/frontend/images/partner/style2/1.png') }}" title="" alt="">
                         <img class="mains-logos rs-grid-img " src="{{ asset('assets/frontend/images/partner/style2/1.png') }}" title="" alt="">
                     </a>
                 </div>
                 <div class="logo-img">
-                    <a href="https://devsdesign.net/">
+                    <a href="#">
                         <img class="hovers-logos rs-grid-img" src="{{ asset('assets/frontend/images/partner/style2/2.png') }}" title="" alt="">
                         <img class="mains-logos rs-grid-img " src="{{ asset('assets/frontend/images/partner/style2/2.png') }}" title="" alt="">
                     </a>
                 </div>
                 <div class="logo-img">
-                    <a href="https://devsdesign.net/">
+                    <a href="#">
                         <img class="hovers-logos rs-grid-img" src="{{ asset('assets/frontend/images/partner/style2/3.png') }}" title="" alt="">
                         <img class="mains-logos rs-grid-img " src="{{ asset('assets/frontend/images/partner/style2/3.png') }}" title="" alt="">
                     </a>
                 </div>
                 <div class="logo-img">
-                    <a href="https://devsdesign.net/">
+                    <a href="#">
                         <img class="hovers-logos rs-grid-img" src="{{ asset('assets/frontend/images/partner/style2/4.png') }}" title="" alt="">
                         <img class="mains-logos rs-grid-img " src="{{ asset('assets/frontend/images/partner/style2/4.png') }}" title="" alt="">
                     </a>
                 </div>
                 <div class="logo-img">
-                    <a href="https://devsdesign.net/">
+                    <a href="#">
                         <img class="hovers-logos rs-grid-img" src="{{ asset('assets/frontend/images/partner/style2/5.png') }}" title="" alt="">
                         <img class="mains-logos rs-grid-img " src="{{ asset('assets/frontend/images/partner/style2/5.png') }}" title="" alt="">
                     </a>
                 </div>
                 <div class="logo-img">
-                    <a href="https://devsdesign.net/">
+                    <a href="#">
                         <img class="hovers-logos rs-grid-img" src="{{ asset('assets/frontend/images/partner/style2/6.png') }}" title="" alt="">
                         <img class="mains-logos rs-grid-img " src="{{ asset('assets/frontend/images/partner/style2/6.png') }}" title="" alt="">
                     </a>
                 </div>
                 <div class="logo-img">
-                    <a href="https://devsdesign.net/">
+                    <a href="#">
                         <img class="hovers-logos rs-grid-img" src="{{ asset('assets/frontend/images/partner/style2/7.png') }}" title="" alt="">
                         <img class="mains-logos rs-grid-img " src="{{ asset('assets/frontend/images/partner/style2/7.png') }}" title="" alt="">
                     </a>

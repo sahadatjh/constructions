@@ -148,12 +148,12 @@
              </div>
              <div class="col-lg-4 pl-36 md-pl-15">
                  <ul class="services-list mb-50">
-                    <li><a class="active" href="general-construction.html">General Construction</a></li>
-                    <li><a href="property-maintenance.html">Property Maintenance</a></li>
-                    <li><a href="preconstruction.html">Preconstruction</a></li>
-                    <li><a href="virtual-design-build.html">Virtual Design & Build</a></li>
-                    <li><a href="project-managment.html">Project Managment</a></li>
-                    <li><a href="design-build.html">Design Build</a></li>
+                    <li><a class="active" href="{{ route('services.singel') }}">General Construction</a></li>
+                    <li><a href="{{ route('services.singel') }}">Property Maintenance</a></li>
+                    <li><a href="{{ route('services.singel') }}">Preconstruction</a></li>
+                    <li><a href="{{ route('services.singel') }}">Virtual Design & Build</a></li>
+                    <li><a href="{{ route('services.singel') }}">Project Managment</a></li>
+                    <li><a href="{{ route('services.singel') }}">Design Build</a></li>
                  </ul>
                     <div class="services-add mb-50">
                         <div class="services-overlay"></div>

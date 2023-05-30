@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-lg-3 pr-20 md-pr-15 md-mb-10">
                     <div class="footer-logo md-mb-30">
-                        <a href="index.html"><img src="{{ asset('assets/frontend/images/logo/logo-long1.png') }}" alt=""></a>
+                        <a href="{{ route('home') }}"><img src="{{ asset('assets/frontend/images/logo/logo-long1.png') }}" alt=""></a>
                     </div>
                     <div class="textwidget">
                         <p class="pb-20">Lorem ipsum dolor sit amet, consec tetur adipiscing elit, sed do eiusmod tempor in cididunt ut labore.</p>

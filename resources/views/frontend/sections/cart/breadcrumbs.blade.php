@@ -9,7 +9,7 @@
             modeserunt mollit anim id est 20 years experience.</span>
             <ul class="breadcrumbs-area">
                <li title="Go to konstruk">
-                   <a class="active" href="index.html">Home</a>
+                   <a class="active" href="{{ route('home') }}">Home</a>
                </li>
               <li>Cart</li>
            </ul>

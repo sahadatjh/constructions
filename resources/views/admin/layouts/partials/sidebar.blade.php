@@ -20,7 +20,7 @@
             </span>
             <span class="logo-lg">
                 {{-- <img src="{{ asset('assets/admin/images/logo-light.png') }}" alt="" height="20"> --}}
-                <img src="{{ asset('assets/admin/images/logo-long1.png') }}" alt="" height="48">
+                <img src="{{ asset('assets/admin/images/logo-full.png') }}" alt="" height="48">
             </span>
         </a>
     </div>

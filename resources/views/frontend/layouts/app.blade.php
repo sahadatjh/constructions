@@ -4,14 +4,14 @@
 <head>
 		<!-- meta tag -->
 		<meta charset="utf-8">
-		<title>Property Design & Development</title>
+		<title>Abashon Design </title>
 		<meta name="description" content="">
 		<!-- responsive tag -->
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<!-- favicon -->
 		<link rel="apple-touch-icon" href="apple-touch-icon.html">
-		<link rel="shortcut icon" type="image/x-icon" href="{{ asset('assets/frontend/images/logo/logo-short1.png') }}">
+		<link rel="shortcut icon" type="image/x-icon" href="{{ asset('assets/frontend/images/logo/logo-small.png') }}">
 		<!-- Bootstrap v4.4.1 css -->
 		<link rel="stylesheet" type="text/css" href="{{ asset('assets/frontend/css/bootstrap.min.css') }}">
 		<!-- font-awesome css -->
@@ -52,7 +52,7 @@
 	   	<div id="pre-load">
             <div id="loader" class="loader">
                 <div class="loader-container">
-                    <div class="loader-icon"><img src="{{ asset('assets/frontend/images/logo/logo-short1.png') }}" alt="Property Design & Development"></div>
+                    <div class="loader-icon"><img src="{{ asset('assets/frontend/images/logo/logo-full.png') }}" alt="Abason Design"></div>
                 </div>
             </div>              
         </div>
@@ -124,5 +124,4 @@
 		<script src="{{ asset('assets/frontend/js/main.js') }}"></script>
 	</body>
 
-<!-- Mirrored from devsdesign.net/products/html/konstruk/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 25 Apr 2023 15:49:53 GMT -->
 </html>

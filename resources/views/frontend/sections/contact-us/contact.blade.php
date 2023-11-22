@@ -66,8 +66,8 @@
                        </div>
                        <div class="content-text">
                            <h4 class="title"><a href="#">Email us</a></h4>
-                           <span><a href="mailto:support@propertydesign.com">support@propertydesign.com</a></span><br>
-                           <span><a href="mailto:info@propertydesign.com">info@propertydesign.com</a></span>
+                           <span><a href="mailto:support@abasondesign.com">support@abasondesign.com</a></span><br>
+                           <span><a href="mailto:info@abasondesign.com">info@abasondesign.com</a></span>
                        </div>
                    </div>
                 </div>

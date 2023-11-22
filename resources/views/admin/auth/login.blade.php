@@ -8,7 +8,7 @@
         <meta content="Coderthemes" name="author" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <!-- App favicon -->
-        <link rel="shortcut icon" href="{{ asset('assets/admin/images/logo1.ico') }}">
+        <link rel="shortcut icon" href="{{ asset('assets/admin/images/logo.ico') }}">
 
 		<!-- App css -->
 		<link href="{{ asset('assets/admin/css/bootstrap-material.min.css') }}" rel="stylesheet" type="text/css" id="bs-default-stylesheet" />
@@ -37,7 +37,7 @@
                                     <div class="auth-logo">
                                         <a href="index.html" class="logo logo-dark text-center">
                                             <span class="logo-lg">
-                                                <img src="{{ asset('assets/admin/images/logo-long1.png') }}" alt="LOGO" style="width:100% ;">
+                                                <img src="{{ asset('assets/admin/images/logo-full.png') }}" alt="LOGO" style="width:100% ;">
                                             </span>
                                         </a>
                     

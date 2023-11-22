@@ -7,13 +7,13 @@
         
         <!-- Menu Start -->
         <div class="menu-area menu-sticky">
-            <div class="container-custom">
+            <div class="container-fluid">
                 <div class="row-table">
                     <div class="col-cell header-logo">                                  
                         <div class="logo-area">
                             <a href="{{ route('home') }}">
-                                <img class="normal-logo" src="{{ asset('assets/frontend/images/logo/logo-long1.png') }}" alt="logo">  
-                                <img class="sticky-logo" src="{{ asset('assets/frontend/images/logo/logo-long1.png') }}" alt="logo">
+                                <img class="normal-logo" src="{{ asset('assets/frontend/images/logo/logo-full.png') }}" alt="logo">  
+                                <img class="sticky-logo" src="{{ asset('assets/frontend/images/logo/logo-full.png') }}" alt="logo">
                             </a>
                         </div>
                     </div>
@@ -126,10 +126,10 @@
                                             <a href="{{ route('projects') }}">Projects</a>
                                         </li>
                                         <li>
-                                            <a href="{{ route('cost') }}">Cost</a>
+                                            <a href="{{ route('cost') }}">Ready Design</a>
                                         </li>
                                         <li>
-                                            <a href="{{ route('blog') }}">Blog</a>
+                                            <a href="{{ route('blog') }}">teams</a>
                                         </li>
                                         <li>
                                             <a href="{{ route('contact.us') }}">Contact Us</a>
@@ -139,7 +139,7 @@
                             </div> <!-- //.main-menu -->
                         </div>
                     </div>
-                    <div class="col-cell">
+                    <!-- <div class="col-cell">
                         <div class="expand-btn-inner">
                             <ul>
                                 {{-- <li class="search-parent">
@@ -181,7 +181,7 @@
                                 </li>
                             </ul>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -322,7 +322,7 @@
                           </div>
                           <div class="info-content">
                               <h4 class="title">Contact</h4>
-                              <em>Level-03, Estern city tower, Beside RS Tower, Jatra-bari, Dhaka</em>
+                              <em>Level-03, Estern city tower, Jatra-bari, Dhaka</em>
                           </div>
                       </div>
                       <div class="address-list">
@@ -331,7 +331,7 @@
                           </div>
                           <div class="info-content">
                               <h4 class="title">Email</h4>
-                              <em><a href="mailto:info@propertydesign.com">info@propertydesign.com</a></em>
+                              <em><a href="mailto:info@abasondesign.com">info@abasondesign.com</a></em>
                           </div>
                       </div>
                       <div class="address-list">

@@ -1,21 +1,21 @@
 <footer id="rs-footer" class="rs-footer footer-main-home">
     <div class="footer-top">
-        <div class="container-custom">
+        <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-3 pr-20 md-pr-15 md-mb-10">
                     <div class="footer-logo md-mb-30">
-                        <a href="{{ route('home') }}"><img src="{{ asset('assets/frontend/images/logo/logo-long1.png') }}" alt=""></a>
+                        <a href="{{ route('home') }}"><img src="{{ asset('assets/frontend/images/logo/footer-logo.png') }}" alt="Logo"></a>
                     </div>
                     <div class="textwidget">
-                        <p class="pb-20">Lorem ipsum dolor sit amet, consec tetur adipiscing elit, sed do eiusmod tempor in cididunt ut labore.</p>
+                        <!-- <p class="pb-20">Lorem ipsum dolor sit amet, consec tetur adipiscing elit, sed do eiusmod tempor in cididunt ut labore.</p> -->
                         <p class="pb-25"><strong>Opening Hours</strong> : Monday – Sat: 9am to 6pm</p>
                     </div>
-                    <ul class="footer-social md-mb-30">  
+                    <!-- <ul class="footer-social md-mb-30">  
                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>                     
                         <li><a href="#"><i class="fa fa-twitter"></i></a></li>                     
                         <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>                     
                         <li><a href="#"><i class="fa fa-instagram"></i></a></li>                     
-                      </ul>
+                      </ul> -->
                 </div>
                 <div class="col-lg-3 md-mb-10">
                     <h3 class="footer-title">Contact Info</h3>
@@ -37,8 +37,8 @@
                         <li>
                             <i class="fi fi-rr-envelope-plus"></i>
                             <div class="desc">
-                                <a href="mailto:support@propertydesign.com">support@propertydesign.com</a><br>
-                                <a href="mailto:info@propertydesign.com">info@propertydesign.com</a>
+                                <a href="mailto:support@abasondesign.com">support@abasondesign.com</a><br>
+                                <a href="mailto:info@abasondesign.com">info@abasondesign.com</a>
                             </div>
                         </li>
                     </ul>
@@ -59,7 +59,7 @@
                     <p class="widget-desc">Tetur adipiscing elit, sed do eiusmod tempor in cididunt ut labore.</p>
                     <p>
                         <input type="email" name="email" placeholder="Your Email Address" required="">
-                        <input type="submit" value="Subscribe Now">
+                        <input type="submit" value="Subscribe Now" >
                     </p>
                 </div>
             </div>
@@ -74,14 +74,13 @@
                         <li><a href="{{ route('about') }}">About</a></li>
                         <li><a href="{{ route('services') }}">Services</a></li>
                         <li><a href="{{ route('projects') }}">Projects</a></li>
-                        <li><a href="{{ route('cost') }}">Cost</a></li>
-                        <li><a href="{{ route('blog') }}">Blog</a></li>
+                        <li><a href="{{ route('cost') }}">Ready Design</a></li>
                         <li><a href="{{  route('contact.us') }}">Contact</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-6">
                     <div class="copyright text-lg-start text-center">
-                        <p>© 2023 Property Design & Development.  Developed By <a href="https://sahadat.xyz/" target="_blank">Sahadat Hossain</a></p>
+                        <p>© 2023 Abason Design. Developed By <a href="https://sahadat.xyz/" target="_blank">Sahadat Hossain</a></p>
                     </div>
                 </div>
             </div>

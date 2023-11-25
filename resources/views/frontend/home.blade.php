@@ -85,7 +85,7 @@
 			<!-- Why Choose End -->
             
 			<!-- Blog Section Start -->
-			@include('frontend.sections.blog')
+			<!-- @include('frontend.sections.blog') -->
 			<!-- Blog Section End -->
             
 			<!-- Call To Action Choose Start -->

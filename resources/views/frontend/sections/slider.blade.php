@@ -8,10 +8,6 @@
         <div id="slide-1" class="slider-direction">
            <div class="container">
                    <div class="content-part">
-                       <span class="sl-subtitle">
-                           <img class="sl-icons" src="{{ asset('assets/frontend/images/slider/style1/shapes/icons3.png') }}" alt="Images">
-                              Construction Business
-                       </span>
                        <h1 class="sl-title">
                            We build something<br>
                            new and consistent.<br>
@@ -41,10 +37,10 @@
         <div id="slide-22" class="slider-direction">
             <div class="container-side-slide2">
                 <div class="content-part">
-                    <span class="sl-subtitle1">
+                    <!-- <span class="sl-subtitle1">
                         <img class="sl-icons" src="{{ asset('assets/frontend/images/slider/style1/shapes/icons3.png') }}" alt="Images">
                         Construction Business
-                    </span>
+                    </span> -->
                     <h1 class="sl-title1">
                         We build something<br>
                         new and consistent.<br>

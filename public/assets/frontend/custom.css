@@ -1,9 +1,3 @@
-.team-social li{
-    border-right:1px solid #000000 ;
-}
-.team-social li:last-child{
-    border-right: none;
-}
 .pricing-table-wrap:hover{
     box-shadow: 1px 1px 10px 1px #888888 !important;
 }
@@ -51,4 +45,12 @@
 }
 .btn-blue{
     background-color: #3239e5;
+}
+
+.nivo-prevNav, .nivo-nextNav{
+    background-color: #3239e5 !important;
+}
+.nivo-prevNav:hover, .nivo-nextNav:hover{
+    background-color: #333333 !important;
+    color: #ffffff !important;
 }

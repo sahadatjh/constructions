@@ -1,5 +1,5 @@
 <div id="rs-testimonial" class="rs-testimonial testimonial-style2 testimonial-modify1 pt-50 pb-50 md-pt-40 md-pb-40 sm-pb-35">
-    <div class="container">
+    <div class="container-fluid">
         <div class="sec-title text-center mb-60 md-mb-40">
             <span class="sub-text ">
                 <img src="{{ asset('assets/frontend/images/shape-1.png') }}" alt="Images">
@@ -9,7 +9,7 @@
                 Our clients reviews.
             </h2>
         </div>
-        <div class="rs-carousel owl-carousel" data-loop="true" data-items="3" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="2" data-ipad-device-nav="false" data-ipad-device-dots="true" data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="true" data-md-device="3" data-md-device-nav="false" data-md-device-dots="true">
+        <div class="rs-carousel owl-carousel" data-loop="true" data-items="5" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="2" data-ipad-device-nav="false" data-ipad-device-dots="true" data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="true" data-md-device="4" data-md-device-nav="false" data-md-device-dots="true">
             <div class="testi-item">
                <div class="item-content">
                        <span><img src="{{ asset('assets/frontend/images/testimonial/style1/quote4.png') }}" alt="Testimonial"></span>

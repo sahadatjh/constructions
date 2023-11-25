@@ -704,7 +704,7 @@ button:focus {
   background: #0d6efd;
 }
 .gridFilter.gridfilter-style2.yellow-gridfilter button:hover {
-  color: #010d14;
+  color: #ffffff;
   background: #0d6efd !important;
 }
 blockquote {
@@ -6220,7 +6220,7 @@ body .search-modal .close:hover {
   transition: all 0.4s ease-in-out 0s;
 }
 .rs-project.project-style1 .project-item .project-content .p-icon a i {
-  color: #010d14;
+  color: #ffffff;
 }
 .rs-project.project-style1 .project-item .project-content .p-icon a i:before {
   margin: 0;
@@ -11009,7 +11009,7 @@ body .search-modal .close:hover {
   font-size: 24px;
   width: 42px;
   border-radius: 0;
-  color: #010d14;
+  color: #ffffff;
   line-height: 36px;
   transition: all 0.3s ease 0s;
   background: #0d6efd;

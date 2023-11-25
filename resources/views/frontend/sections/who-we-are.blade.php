@@ -52,7 +52,7 @@
                     <div class="row mt-47 md-mt-25">
                         <div  class="col-lg-6 col-md-4 sm-mb-30">
                             <div class="btn-part">
-                                <a class="readon more know" href="{{ route('about') }}">Know more</a>
+                                <a class="readon more know text-white" href="{{ route('about') }}">Know more</a>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-8">

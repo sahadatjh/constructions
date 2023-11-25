@@ -859,7 +859,7 @@ blockquote p {
 .readon.more {
   background: #0d6efd;
   padding: 17px 23px 17px 23px;
-  color: #010d14;
+  color: #ffffff;
   font-weight: 500;
   text-transform: uppercase;
 }
@@ -938,7 +938,7 @@ blockquote p {
   padding: 16px 35px 16px 35px;
 }
 .readon.more.contact:hover {
-  background-color: #fff;
+  background-color: #ffffff;
   color: #010d14;
 }
 .readon.more.requset-services {
@@ -1316,7 +1316,7 @@ blockquote p {
   font-size: 14px;
   font-weight: 500;
   text-transform: uppercase;
-  background-color: #FFCA46;
+  background-color: #0d6efd;
   padding: 14px 25px 12px 25px;
   color: #010D14;
   transition: all ease .3s;

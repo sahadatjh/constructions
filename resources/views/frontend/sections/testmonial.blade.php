@@ -12,7 +12,7 @@
         <div class="rs-carousel owl-carousel" data-loop="true" data-items="3" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="2" data-ipad-device-nav="false" data-ipad-device-dots="true" data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="true" data-md-device="3" data-md-device-nav="false" data-md-device-dots="true">
             <div class="testi-item">
                <div class="item-content">
-                       <span><img src="{{ asset('assets/frontend/images/testimonial/style1/quote.png') }}" alt="Testimonial"></span>
+                       <span><img src="{{ asset('assets/frontend/images/testimonial/style1/quote4.png') }}" alt="Testimonial"></span>
                        <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</p>
                </div>
                <div class="testi-content">
@@ -27,7 +27,7 @@
             </div>
             <div class="testi-item">
                <div class="item-content">
-                       <span><img src="{{ asset('assets/frontend/images/testimonial/style1/quote.png') }}" alt="Testimonial"></span>
+                       <span><img src="{{ asset('assets/frontend/images/testimonial/style1/quote4.png') }}" alt="Testimonial"></span>
                        <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</p>
                </div>
                <div class="testi-content">
@@ -42,7 +42,7 @@
             </div>
             <div class="testi-item">
                <div class="item-content">
-                       <span><img src="{{ asset('assets/frontend/images/testimonial/style1/quote.png') }}" alt="Testimonial"></span>
+                       <span><img src="{{ asset('assets/frontend/images/testimonial/style1/quote4.png') }}" alt="Testimonial"></span>
                        <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</p>
                </div>
                <div class="testi-content">
@@ -57,7 +57,7 @@
             </div>
             <div class="testi-item">
                <div class="item-content">
-                       <span><img src="{{ asset('assets/frontend/images/testimonial/style1/quote.png') }}" alt="Testimonial"></span>
+                       <span><img src="{{ asset('assets/frontend/images/testimonial/style1/quote4.png') }}" alt="Testimonial"></span>
                        <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</p>
                </div>
                <div class="testi-content">

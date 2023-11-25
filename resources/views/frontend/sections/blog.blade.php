@@ -21,7 +21,7 @@
                            <li class="admin"><i class="fa fa-user-o"></i>Admin</li>
                        </ul>
                     <h3 class="blog-title"><a href="{{ route('blog.single') }}">We really appreciate content about the construction</a></h3>
-                    <div class="blog-button"><a href="{{ route('blog.single') }}">Read More</a></div>
+                    <div class="blog-button"><a class="text-white" href="{{ route('blog.single') }}">Read More</a></div>
                 </div>
             </div>
             <div class="blog-item">
@@ -34,7 +34,7 @@
                            <li class="admin"><i class="fa fa-user-o"></i>Admin</li>
                        </ul>
                     <h3 class="blog-title"><a href="{{ route('blog.single') }}">Best practices construction law on construction</a></h3>
-                    <div class="blog-button"><a href="{{ route('blog.single') }}">Read More</a></div>
+                    <div class="blog-button"><a class="text-white" href="{{ route('blog.single') }}">Read More</a></div>
                 </div>
             </div>
             <div class="blog-item">
@@ -47,7 +47,7 @@
                            <li class="admin"><i class="fa fa-user-o"></i>Admin</li>
                        </ul>
                     <h3 class="blog-title"><a href="{{ route('blog.single') }}">Although many people may overlook the need</a></h3>
-                    <div class="blog-button"><a href="{{ route('blog.single') }}">Read More</a></div>
+                    <div class="blog-button"><a class="text-white" href="{{ route('blog.single') }}">Read More</a></div>
                 </div>
             </div>
             <div class="blog-item">
@@ -60,7 +60,7 @@
                            <li class="admin"><i class="fa fa-user-o"></i>Admin</li>
                        </ul>
                     <h3 class="blog-title"><a href="{{ route('blog.single') }}">Construction executive holds a very special place</a></h3>
-                    <div class="blog-button"><a href="{{ route('blog.single') }}">Read More</a></div>
+                    <div class="blog-button"><a class="text-white" href="{{ route('blog.single') }}">Read More</a></div>
                 </div>
             </div>
             <div class="blog-item">
@@ -73,7 +73,7 @@
                            <li class="admin"><i class="fa fa-user-o"></i>Admin</li>
                        </ul>
                     <h3 class="blog-title"><a href="{{ route('blog.single') }}">This is another massive sites with a ton of information</a></h3>
-                    <div class="blog-button"><a href="{{ route('blog.single') }}">Read More</a></div>
+                    <div class="blog-button"><a class="text-white" href="{{ route('blog.single') }}">Read More</a></div>
                 </div>
             </div>
             <div class="blog-item">
@@ -86,7 +86,7 @@
                            <li class="admin"><i class="fa fa-user-o"></i>Admin</li>
                        </ul>
                     <h3 class="blog-title"><a href="{{ route('blog.single') }}">The construction business the owner site is jam-packed</a></h3>
-                    <div class="blog-button"><a href="{{ route('blog.single') }}">Read More</a></div>
+                    <div class="blog-button"><a class="text-white" href="{{ route('blog.single') }}">Read More</a></div>
                 </div>
             </div>
         </div>

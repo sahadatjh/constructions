@@ -34,7 +34,7 @@
                             </div>
                             <div class="btn-part">                                            
                                 <div class="form-group mb-0">
-                                    <input class="readon more submit" type="submit" value="Submit Now">
+                                    <input class="readon more submit text-white" type="submit" value="Submit Now">
                                 </div>
                             </div> 
                         </fieldset>

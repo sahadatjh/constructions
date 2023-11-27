@@ -2,7 +2,7 @@
 <div class="rs-services-single pt-120 pb-120 md-pt-80 md-pb-80">
     <div class="container">
          <div class="row">
-             <div class="col-lg-8 md-mb-50">
+             <div class="col-lg-12 md-mb-50">
                  <div class="services-img mb-35">
                      <img src="{{ asset('assets/frontend/images/services/services-single/ser1.jp') }}g" alt="">
                  </div>
@@ -19,7 +19,7 @@
                         <li>Nam libero tempore, cum soluta nobis est eligendi optio cumque</li>          
                  </ul>
                  <!-- Counter Section Start -->
-                 <div class="rs-counter counter-style5 pt-30 pb-55">
+                 <!-- <div class="rs-counter counter-style5 pt-30 pb-55">
                      <div class="row">
                          <div class="col-lg-6 col-md-6 sm-mb-30">
                              <div class="rs-counter-list">
@@ -50,21 +50,21 @@
                              </div>
                          </div>
                      </div>
-                 </div>
+                 </div> -->
                  <!-- Counter Section End -->
                  <p class="desc-part pb-50">
                      Cras enim urna, interdum nec porttitor vitae, sollicitudin eu eros. Praesent eget mollis nulla, non lacinia urna. Donec sit amet neque auctor, ornare dui rutrum, condimentum justo. Duis dictum, ex accumsan eleifend eleifend, ex justo aliquam nunc, in ultrices ante quam eget massa. Sed scelerisque, odio eu tempor pulvinar, magna tortor finibus lorem.
                  </p>
-                 <div class="row mb-60 md-mb-30">
+                 <!-- <div class="row mb-60 md-mb-30">
                      <div class="col-lg-6 col-md-6 sm-mb-30">
                          <img class="bdru-4" src="{{ asset('assets/frontend/images/services/services-single/ser3.jp') }}g" alt="">
                      </div>
                      <div class="col-lg-6 col-md-6">
                          <img class="bdru-4" src="{{ asset('assets/frontend/images/services/services-single/ser4.jp') }}g" alt="">
                      </div>
-                 </div>
+                 </div> -->
                  <!-- Testimonial Section Start -->
-                 <div class="rs-testimonial testimonial-style8">
+                 <!-- <div class="rs-testimonial testimonial-style8">
                         <div class="rs-carousel owl-carousel" data-loop="true" data-items="1" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="1" data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="1" data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="1" data-md-device-nav="false" data-md-device-dots="false">
                          <div class="testi-item">
                              <div class="testi-wrap">
@@ -143,10 +143,10 @@
                              </div>
                          </div>
                         </div>
-                 </div>
+                 </div> -->
                  <!-- Testimonial Section End -->
              </div>
-             <div class="col-lg-4 pl-36 md-pl-15">
+             <!-- <div class="col-lg-4 pl-36 md-pl-15">
                  <ul class="services-list mb-50">
                     <li><a class="active" href="{{ route('services.singel') }}">General Construction</a></li>
                     <li><a href="{{ route('services.singel') }}">Property Maintenance</a></li>
@@ -183,7 +183,7 @@
                          <a class="rselement-dual-btn" href="#">Discover</a>
                      </div>
                  </div>
-             </div>
+             </div> -->
          </div> 
     </div> 
  </div>

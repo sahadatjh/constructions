@@ -69,7 +69,7 @@
             </div>
         </div>
         <!-- Counter Section Start -->
-        <div class="rs-counter counter-style6">
+        <!-- <div class="rs-counter counter-style6">
             <div class="counter-top bg23 md-pt-80 md-pb-80">
                 <div class="row">
                     <div class="col-lg-3 col-md-6 md-mb-40">
@@ -130,7 +130,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Counter Section End -->
 
         <div class="rs-project-goals pt-115 md-pt-75">

@@ -3,10 +3,10 @@
     <div class="container">
         <div class="breadcrumbs-inner">
             <h1 class="page-title">
-                   Shop
+                   Our Ready Design
             </h1>
-            <span class="sub-text">Excepteur sint occaecat cupidatat non proident, sunt in coulpa qui official<br> 
-            modeserunt mollit anim id est 20 years experience.</span>
+            <span class="sub-text">You may choose our unlimited ready design, any time any where...<br> 
+            For more information for this design and customization, please contuct to us.</span>
             <!-- <ul class="breadcrumbs-area">
                <li title="Go to konstruk">
                    <a class="active" href="{{ route('home') }}">Home</a>

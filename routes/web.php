@@ -47,8 +47,8 @@ Route::get('/services-single', [HomeController::class, 'servicesSingle'])->name(
 Route::get('/projects', [HomeController::class, 'projects'])->name('projects');
 Route::get('/projects-single', [HomeController::class, 'projectsSingle'])->name('projects.single');
 Route::get('/contact-us', [HomeController::class, 'contactUs'])->name('contact.us');
-Route::get('/ready-desin', [HomeController::class, 'readyDesin'])->name('ready.design');
-Route::get('/cost/products-single', [HomeController::class, 'productSingle'])->name('product.single');
+Route::get('/ready-desin', [HomeController::class, 'readyDesign'])->name('ready.design');
+Route::get('/ready-desin/single', [HomeController::class, 'productSingle'])->name('product.single');
 Route::get('/teams', [HomeController::class, 'teams'])->name('teams');
 Route::get('/blog-single', [HomeController::class, 'blogSingle'])->name('blog.single');
 Route::get('/cart', [HomeController::class, 'cart'])->name('cart');

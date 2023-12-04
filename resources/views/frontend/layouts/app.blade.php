@@ -59,6 +59,7 @@
 		<!--Preloader area end here-->
 			
 		<!-- Main content Start -->
+		<p class="notification">This site is under development. please contact: 01910922069 or visit our <a href="www.sahadat.xyz">Site</a></p>
 		<div class="main-content">
 			@yield('content')
 		</div> 

@@ -42,7 +42,7 @@ class HomeController extends Controller
         return view('frontend.pages.contact-us');
     }
 
-    public function blog()
+    public function teams()
     {
         return view('frontend.pages.blog');
     }
@@ -52,7 +52,7 @@ class HomeController extends Controller
         return view('frontend.pages.blog-single');
     }
 
-    public function cost()
+    public function readyDesign()
     {
         return view('frontend.pages.cost');
     }

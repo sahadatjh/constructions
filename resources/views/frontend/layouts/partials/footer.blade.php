@@ -74,7 +74,7 @@
                         <li><a href="{{ route('about') }}">About</a></li>
                         <li><a href="{{ route('services') }}">Services</a></li>
                         <li><a href="{{ route('projects') }}">Projects</a></li>
-                        <li><a href="{{ route('cost') }}">Ready Design</a></li>
+                        <li><a href="{{ route('ready.design') }}">Ready Design</a></li>
                         <li><a href="{{  route('contact.us') }}">Contact</a></li>
                     </ul>
                 </div>

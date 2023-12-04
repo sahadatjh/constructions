@@ -126,10 +126,10 @@
                                             <a href="{{ route('projects') }}">Projects</a>
                                         </li>
                                         <li>
-                                            <a href="{{ route('cost') }}">Ready Design</a>
+                                            <a href="{{ route('ready.design') }}">Ready Design</a>
                                         </li>
                                         <li>
-                                            <a href="{{ route('blog') }}">teams</a>
+                                            <a href="{{ route('teams') }}">Teams</a>
                                         </li>
                                         <li>
                                             <a href="{{ route('contact.us') }}">Contact Us</a>
@@ -302,10 +302,10 @@
                     <a href="{{ route('projects') }}">Projects</a>
                 </li>
                 <li>
-                    <a href="{{  route('cost') }}">Cost</a>
+                    <a href="{{  route('ready.design') }}">Ready Design</a>
                 </li>
                 <li>
-                    <a href="{{  route('blog') }}">Blog</a>
+                    <a href="{{  route('teams') }}">Teams</a>
                 </li>
                 <li>
                     <a href="{{  route('contact.us') }}">Contact</a>

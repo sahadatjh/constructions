@@ -44,7 +44,7 @@ class HomeController extends Controller
 
     public function teams()
     {
-        return view('frontend.pages.blog');
+        return view('frontend.pages.teams');
     }
 
     public function blogSingle()

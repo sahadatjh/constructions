@@ -93,7 +93,7 @@
 			<!-- Call To Action Choose End -->
              
 			<!-- Team Section Start -->
-			@include('frontend.sections.team')
+			@include('frontend.sections.teams.team')
 			<!-- Team Section End -->
             
 			<!-- Testimonial Section Start -->
